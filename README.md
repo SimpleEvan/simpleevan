@@ -4,7 +4,7 @@ Hi 👋 My name is Evan
 Developer and professional sleeper
 ----------------------------------
 
-I've been developing for 8+ years started in the embedded systems field and transitioned early on to primary web development. Because of my passion for technology I've tasted difference software development specialization e.g. game development, mobile development, A.I. development
+I've been developing for 10+ years started in the embedded systems field and transitioned early on to primary web development. Because of my passion for technology I've tasted difference software development specialization e.g. game development, mobile development, A.I. development
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me at [rue-larks0v@icloud.com](mailto:rue-larks0v@icloud.com)
